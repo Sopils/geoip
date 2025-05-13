@@ -25,6 +25,30 @@
 		"uri": "https://raw.githubusercontent.com/Sopils/myipset/main/output/afr.txt"
 	  }
 	},
+{
+	  "type": "text",
+	  "action": "add",
+	  "args": {
+		"name": "r_eur",
+		"uri": "https://raw.githubusercontent.com/Sopils/myipset/main/output/r_eur.txt"
+	  }
+	},
+	{
+	  "type": "text",
+	  "action": "add",
+	  "args": {
+		"name": "r_neu",
+		"uri": "https://raw.githubusercontent.com/Sopils/myipset/main/output/r_neu.txt"
+	  }
+	},
+	{
+	  "type": "text",
+	  "action": "add",
+	  "args": {
+		"name": "r_seu",
+		"uri": "https://raw.githubusercontent.com/Sopils/myipset/main/output/r_seu.txt"
+	  }
+	},
     {
       "type": "text",
       "action": "add",
