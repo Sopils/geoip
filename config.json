@@ -17,6 +17,86 @@
         "onlyIPType": "ipv4"
       }
     },
+	{
+	  "type": "text",
+	  "action": "add",
+	  "args": {
+		"name": "afr",
+		"uri": "https://raw.githubusercontent.com/Sopils/myipset/main/output/afr.txt"
+	  }
+	},
+	{
+	  "type": "text",
+	  "action": "add",
+	  "args": {
+		"name": "anz",
+		"uri": "https://raw.githubusercontent.com/Sopils/myipset/main/output/anz.txt"
+	  }
+	},
+	{
+	  "type": "text",
+	  "action": "add",
+	  "args": {
+		"name": "asa",
+		"uri": "https://raw.githubusercontent.com/Sopils/myipset/main/output/asa.txt"
+	  }
+	},
+	{
+	  "type": "text",
+	  "action": "add",
+	  "args": {
+		"name": "eur",
+		"uri": "https://raw.githubusercontent.com/Sopils/myipset/main/output/eur.txt"
+	  }
+	},
+	{
+	  "type": "text",
+	  "action": "add",
+	  "args": {
+		"name": "nam",
+		"uri": "https://raw.githubusercontent.com/Sopils/myipset/main/output/nam.txt"
+	  }
+	},
+	{
+	  "type": "text",
+	  "action": "add",
+	  "args": {
+		"name": "r_eur",
+		"uri": "https://raw.githubusercontent.com/Sopils/myipset/main/output/r_eur.txt"
+	  }
+	},
+	{
+	  "type": "text",
+	  "action": "add",
+	  "args": {
+		"name": "r_neu",
+		"uri": "https://raw.githubusercontent.com/Sopils/myipset/main/output/r_neu.txt"
+	  }
+	},
+	{
+	  "type": "text",
+	  "action": "add",
+	  "args": {
+		"name": "r_seu",
+		"uri": "https://raw.githubusercontent.com/Sopils/myipset/main/output/r_seu.txt"
+	  }
+	},
+	{
+	  "type": "text",
+	  "action": "add",
+	  "args": {
+		"name": "sam",
+		"uri": "https://raw.githubusercontent.com/Sopils/myipset/main/output/sam.txt"
+	  }
+	},
+	{
+	  "type": "text",
+	  "action": "add",
+	  "args": {
+		"name": "sea",
+		"uri": "https://raw.githubusercontent.com/Sopils/myipset/main/output/sea.txt"
+	  }
+	},
     {
       "type": "text",
       "action": "add",
