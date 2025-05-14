@@ -49,22 +49,7 @@
 		"uri": "https://raw.githubusercontent.com/Sopils/myipset/main/output/eur.txt"
 	  }
 	},
-	{
-	  "type": "text",
-	  "action": "add",
-	  "args": {
-		"name": "nam",
-		"uri": "https://raw.githubusercontent.com/Sopils/myipset/main/output/nam.txt"
-	  }
-	},
-	  	{
-	  "type": "text",
-	  "action": "add",
-	  "args": {
-		"name": "sam",
-		"uri": "https://raw.githubusercontent.com/Sopils/myipset/main/output/sam.txt"
-	  }
-	},
+
 	{
 	  "type": "text",
 	  "action": "add",
