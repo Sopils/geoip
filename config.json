@@ -96,8 +96,7 @@
 	    "name": "sea",
 	    "uri": "https://raw.githubusercontent.com/Sopils/myipset/main/output/sea.txt"
 	  }
-	}
-
+	},
     {
       "type": "text",
       "action": "add",
